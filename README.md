@@ -23,7 +23,7 @@ Note:
   -  Jenkins Agent installed on that Slave.
   -  Jenkins Slave node store data by default on slave so we need to create Directory on Slave node for data store.
 
-  On Slave Node EC2 terminal : 
+  On Slave Node EC2 terminal (For Linux OS) : 
   -
   Install java on Slave 
 
