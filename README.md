@@ -74,5 +74,16 @@ Note:
 ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/ed202d02-64f6-499c-b5c9-a703d64b74ac)
 
 
-   
+   - step 5 :  (In Credentials)
+
+      In "Kind" -->> "SSH username and private key"
+
+     Note:
+
+     The private key which is used during launch Slave Node that key download on Local machine open that key by Double tap and copy that key and paste in "private Key" option 
+  
+  ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/cacf59c5-97d6-40ef-a76f-56201caa805e)
+
+  ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/b7162b47-11c6-47c6-b3d4-b0dad78ba6a6)
+
 
