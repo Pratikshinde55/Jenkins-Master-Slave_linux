@@ -44,8 +44,13 @@ Note:
 
   ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/7db4e9d4-0d3b-4307-b787-801a584f4572)
 
-  - step 2 :
- 
+  ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/bf767e21-de1c-4ef2-bd9d-51b3ddd41fad)
+
+
+  - step 2 : 
+    
+
+
 
     
 
