@@ -40,7 +40,7 @@ Note:
 
  ✧ On Jenkins webUI :
 
-  Go nodes on jenkins webUI
+  - step 1 :Go nodes on jenkins webUI
 
   ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/7db4e9d4-0d3b-4307-b787-801a584f4572)
 
