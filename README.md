@@ -21,6 +21,7 @@ Note:
   -  java must installed on that Slave because jenkins made from java.
   -  SSH should be enable in that Slave.
   -  Jenkins Agent installed on that Slave.
+
     
 
 
