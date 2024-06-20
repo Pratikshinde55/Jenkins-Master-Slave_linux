@@ -18,7 +18,10 @@ Overview of Steup :
 Note:
 
   For Adding Slave Node to jenkins follwing things need to do:
-  - 
+  -  java must installed on that Slave because jenkins made from java.
+  -  SSH should be enable in that Slave.
+  -  Jenkins Agent installed on that Slave.
+    
 
 
    
