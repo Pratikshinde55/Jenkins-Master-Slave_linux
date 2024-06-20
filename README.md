@@ -86,4 +86,9 @@ Note:
 
   ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/b7162b47-11c6-47c6-b3d4-b0dad78ba6a6)
 
+  Host verification means When we connect any system by SSH 1st time they ask Yes or No so we select Non-verification strategy.
+
+  ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/78d19d95-c506-4596-962c-d89bd0a9deda)
+
+
 
