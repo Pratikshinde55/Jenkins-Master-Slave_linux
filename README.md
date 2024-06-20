@@ -34,6 +34,10 @@ Note:
        # mkdir PSworkspace
 
 
+ On Jenkins webUI :
+ -
+ 
+
     
 
 
