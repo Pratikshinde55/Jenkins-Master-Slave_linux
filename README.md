@@ -116,3 +116,21 @@ Note:
  ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/bd5c2825-5b59-48ae-b043-1c6a508b7ea5)
 
 
+ Build job :
+
+ we see details on console output of that job 
+
+ ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/b2c02dde-86de-4009-b96e-117bc487bb89)
+
+
+We can also check on EC2 terminal of slave Node;
+
+before --
+![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/7653c668-4887-4565-950c-322ab29b21d0)
+
+After job execute git installed :
+
+![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/1ea91c4f-71c7-4148-b56f-80d6ba033b74)
+
+
+
