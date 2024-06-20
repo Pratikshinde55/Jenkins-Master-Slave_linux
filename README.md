@@ -16,7 +16,6 @@ Overview of Steup :
 
 
  - Note:
-   
      For Adding Slave Node to jenkins follwing things need to do.
      1. 
 
