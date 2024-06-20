@@ -35,6 +35,9 @@ Note:
        # mkdir PSworkspace
 
 
+ ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/ab75199b-cbec-426a-8718-ab9f12a28579)
+
+
  ✧ On Jenkins webUI :
  
  
