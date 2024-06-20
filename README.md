@@ -64,9 +64,14 @@ Note:
 
   - Step 4 :
 
-     Select "Launch method" is -->>  "Launch agent by via SSH"
-    Thsi is because we use linux os system and jenkins required agent download by SSH and Connect Master by SSH to SlaveNode.
+     Select "Launch method" is -->>  "Launch agent by via SSH"  ( Thsi is because we use linux os system and jenkins required agent download by SSH
+    and Connect Master by SSH to SlaveNode.)
+
+    In "Host" -->> Fill public Ip of Slave Node
+
+    And select "Credentials" -->> ADD
     
+![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/ed202d02-64f6-499c-b5c9-a703d64b74ac)
 
 
    
