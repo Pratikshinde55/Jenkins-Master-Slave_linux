@@ -60,7 +60,7 @@ Note:
     Number of executors: Jenkins job execute with help of Build Executors, It menas If Build Executor is 3 then 3 Job run at a time or concurrent on that SlaveNode.
     
    
-
+![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/9cded8e7-f45c-44c2-89a3-e9f3abb82a8f)
 
     
 
