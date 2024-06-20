@@ -15,5 +15,11 @@ Overview of Steup :
 ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/9d0be42d-61e2-42bb-94f1-199548561e8a)
 
 
+ - Note:
+   
+     For Adding Slave Node to jenkins follwing things need to do.
+     1. 
+
+
    
 
