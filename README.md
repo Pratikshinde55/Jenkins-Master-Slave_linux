@@ -92,3 +92,27 @@ Note:
 
 
 
+  Now Slave is Connected to master :
+
+  ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/7da32573-3afb-4ef4-b45a-01c7bbbcb71c)
+
+
+Create Small job which is run on Slave for testing :
+-
+
+create  "New item" and select Freestyle job.
+
+In general there is option for select this job on which Slave execute and add here label which given to slave.
+
+
+![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/b4a4c3cc-985e-48bd-aa5f-000474ca6593)
+
+In "Build" in Execute shell (Because linux os have Shell) and add any command .
+
+Note: 
+
+ The command should be use sudo for admin power and intractive command give arguments otherwise job fails.
+
+ ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/bd5c2825-5b59-48ae-b043-1c6a508b7ea5)
+
+
