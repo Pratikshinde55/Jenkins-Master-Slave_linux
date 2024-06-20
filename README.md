@@ -47,9 +47,19 @@ Note:
   ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/bf767e21-de1c-4ef2-bd9d-51b3ddd41fad)
 
 
-  - step 2 : 
-    
+  - step 2 : Create New Node, Create Node named as 'psSlaveNode'
 
+![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/99cb4cca-b3f5-446e-8d3b-03e5c812c98e)
+
+ - step 3 : now Fill information about slave
+
+    Label : It helps to execute job on which slave Node by Label name of Slave.
+
+    Remote root directory : This Slave Location we created for store data of job on slave.
+
+    Number of executors: Jenkins job execute with help of Build Executors, It menas If Build Executor is 3 then 3 Job run at a time or concurrent on that SlaveNode.
+    
+   
 
 
     
