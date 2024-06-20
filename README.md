@@ -25,6 +25,13 @@ Note:
 
   On Slave Node EC2 terminal : 
   -
+  Install java on Slave 
+
+       # sudo yum install java-17-amazon-corretto-devel
+
+  Now create Directory for workspace
+
+       # mkdir PSworkspace
 
 
     
