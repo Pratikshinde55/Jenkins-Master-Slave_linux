@@ -1,7 +1,7 @@
-# Jenkins-Master-Slave
+# Jenkins Master Slave Architecture SetUP:
 jenkins Master-Slave cluster for Linux OS 
 
-We use AWS ec2 instances for this architecture :
+I use AWS EC2 instances for this architecture :
 
   - "The slave type is permanent Slave and Operating System is Linux".
   - Distributed Scheduling cluster
@@ -24,21 +24,18 @@ Note:
   -  Jenkins Slave node store data by default on slave so we need to create Directory on Slave node for data store.
 
 
-✧ On Slave Node EC2 terminal (For Linux OS) : 
-  
-  Install java on Slave 
+## On Slave Node EC2 terminal (For Linux OS): 
+Install java on Slave 
 
-       # sudo yum install java-17-amazon-corretto-devel
+      sudo yum install java-17-amazon-corretto-devel
 
-  Now create Directory for workspace
+Now create Directory for workspace
 
-       # mkdir PSworkspace
-
+       mkdir PSworkspace
 
  ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/ab75199b-cbec-426a-8718-ab9f12a28579)
 
-
- ✧ On Jenkins webUI :
+## On Jenkins webUI :
 
   - step 1 : click manage Jenkins and then Node option on jenkins webUI
 
