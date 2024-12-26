@@ -1,5 +1,5 @@
 # Jenkins Master Slave Architecture SetUP:
-jenkins Master-Slave cluster for Linux OS 
+Jenkins Master-Slave cluster for Linux OS on the top of AWS Cloud
 
 I use AWS EC2 instances for this architecture :
 
@@ -10,7 +10,7 @@ Overview of Steup :
 
 1.  I use aws Cloud EC2 (AMI-amazon linux2) for -> Master node on which i Install jenkins.
 2.  For Slave i also same EC2 instance and connection by SSH .
-3.  I use jenkins by webUI using public IP of instance and jenkins port no:8080.
+3.  I use jenkins by webUI using public IP of instance and **jenkins port no:8080**.
 
 ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/9d0be42d-61e2-42bb-94f1-199548561e8a)
 
@@ -25,11 +25,11 @@ Note:
 
 
 ## On Slave Node EC2 terminal (For Linux OS): 
-Install java on Slave 
+Install java on Slave: 
 
       sudo yum install java-17-amazon-corretto-devel
 
-Now create Directory for workspace
+Now create Directory for workspace:
 
        mkdir PSworkspace
 
@@ -77,7 +77,7 @@ The private key which is used during launch Slave Node that key download on Loca
 
 ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/b7162b47-11c6-47c6-b3d4-b0dad78ba6a6)
 
-Host verification means When we connect any system by SSH 1st time they ask Yes or No so we select Non-verification strategy.
+- Host verification means When we connect any system by SSH 1st time they ask Yes or No so we select Non-verification strategy.
 
 ![image](https://github.com/Pratikshinde55/Jenkins-Master-Slave/assets/145910708/78d19d95-c506-4596-962c-d89bd0a9deda)
 
