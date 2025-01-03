@@ -8,7 +8,7 @@ I use AWS EC2 instances for this architecture :
 
 Overview of Steup :
 
-1.  I use aws Cloud EC2 (AMI-amazon linux2) for -> Master node on which i Install jenkins.
+1.  I use AWS Cloud EC2 (AMI-amazon linux2) for -> Master node on which i Install Jenkins.
 2.  For Slave i also same EC2 instance and connection by SSH .
 3.  I use jenkins by webUI using public IP of instance and **jenkins port no:8080**.
 
